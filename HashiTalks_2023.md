@@ -17,4 +17,4 @@ Talks:
 * [When You're in Command of the Incident](When_Youre_in_Command_of_the_Incident.md)
 * [Terraform for Platform Teams](Terraform_for_Platform_Teams.md)
 * [Exploring and Provisioning Infrastructure with Packer](Exploring_and_Provisioning_Infrastructure_with_Packer.md)
-* [Containerized Infrastructure-as-Code with Immutable Clusters](C)
+* [Containerized Infrastructure-as-Code with Immutable Clusters](Containerized_IaC_with_Immutable_Clusters.md)
